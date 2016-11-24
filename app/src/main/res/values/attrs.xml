@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!--波浪view -->
+	<declare-styleable name="WaveView">
+		<attr name="backgroundColor" format="color|reference"/>
+		<attr name="waveColor" format="color|reference"/>
+		<attr name="maxProgress" format="integer"/>
+		<attr name="radius" format="dimension"/>
+
+	</declare-styleable>
+</resources>
